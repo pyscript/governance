@@ -8,7 +8,7 @@ This repo contains the following documents pertaining to the governance of the P
 
 - [Code of Conduct](./CODE-OF-CONDUCT.md)
 
-- [Steering Committee](./STEERIUNG-COMMITTEE.md)
+- [Steering Committee](./STEERING-COMMITTEE.md)
 
 - [Trademark policy](./TRADEMARKS.md)
 
